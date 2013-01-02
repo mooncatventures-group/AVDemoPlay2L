@@ -1,0 +1,21 @@
+//
+// Prefix header for all source files of the 'CoreDataStorage' target in the 'CoreDataStorage' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import <CoreData/CoreData.h>
+    #import "TestFlight.h"
+#endif
+
+//Switching to Remote Logging with Test Flight's TFLog.
+#define NSLog(__FORMAT__, ...) TFLog((@"%s [Line %d] " __FORMAT__), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__)
+
+
