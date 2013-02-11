@@ -62,7 +62,6 @@
 		3053F790166BE42A002CCB03 /* BDTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BDTableViewCell.m; sourceTree = "<group>"; };
 		30B7F2C41693B82100833D96 /* WToolbarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WToolbarController.h; sourceTree = "<group>"; };
 		30B7F2C51693B82100833D96 /* WToolbarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WToolbarController.m; sourceTree = "<group>"; };
-		30B7F2CB1693C2E200833D96 /* TestFlight.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestFlight.h; sourceTree = "<group>"; };
 		30B7F2D21693C34200833D96 /* FFmpegDecoder.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FFmpegDecoder.framework; sourceTree = "<group>"; };
 		30B7F2D41693C35900833D96 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		30B7F2D61693C35D00833D96 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
@@ -120,7 +119,6 @@
 				30B7F2E31693C50F00833D96 /* DetailViewController.xib */,
 				30B7F2E01693C50300833D96 /* DetailViewController.h */,
 				30B7F2E11693C50300833D96 /* DetailViewController.m */,
-				30B7F2CB1693C2E200833D96 /* TestFlight.h */,
 				30B7F2C41693B82100833D96 /* WToolbarController.h */,
 				30B7F2C51693B82100833D96 /* WToolbarController.m */,
 				3053F78F166BE42A002CCB03 /* BDTableViewCell.h */,
